@@ -73,6 +73,3 @@ I am a software engineering student from Nepal
 learning ML from scratch — starting from vectors and
 dot products all the way to analyzing real pretrained models.
 
-The Nepali language gap I discovered here is something
-I plan to address in a future project — a proper
-Nepali NLP model built by a Nepali student.
